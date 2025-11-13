@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #0f0f1a;
+    color: #fff;
+    font-size: 16px;
+    
+}
+.logo{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #00f7ff;
+}
+header{
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 90vw;
+    z-index: 3;
+}
+header nav ul{
+    display: flex;
+    gap: 48px;
+    list-style-type: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.container{
+    margin: 10px;
+}
+.principal{
+    position: absolute;
+    top: 30%;
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90vw;
+}
+.textos{
+    width: 600px;
+   
+}
+.textos> h1 + p{
+    margin: 5px;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
+button{
+    padding: 20px;
+    border-radius: 15px;
+    width: 200px;
+    background-color: #0f071a;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+.redes{
+    display: flex;
+    
+
+}
+.redes img{
+    width: 30px;
+    
+}
+.img1{
+    background-color: #fff;
+    border-radius: 90px;
+    margin: 10px;
+    padding: 9px;
+    box-shadow: 10px 10px 10px rgb(#fff, #000);
+    cursor: pointer;
+}
+
+.img2{
+    background-color: #fff;
+    border-radius: 90px;
+    margin: 10px;
+    padding: 9px;
+    box-shadow: 10px 10px 10px rgb(#fff, #000);
+    cursor: pointer;
+}
+
+.img3{
+    background-color: #fff;
+    border-radius: 90px;
+    margin: 10px;
+    padding: 9px;
+    box-shadow: 10px 10px 10px rgb(#fff, #000);
+    cursor: pointer;
+}
+.imagens .imd{
+    width: 400px;
+    border-radius: 300px;
+}
+
+

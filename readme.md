@@ -1,0 +1,1 @@
+Este relatório apresenta o portfólio profissional de Ronivaldo, destacando suas principais habilidades, experiências e competências desenvolvidas ao longo de sua trajetória acadêmica e profissional. O objetivo é demonstrar suas capacidades técnicas e interpessoais, bem como seu compromisso com o aprendizado contínuo e a excelência nas atividades que desempenha.
